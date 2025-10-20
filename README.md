@@ -106,3 +106,6 @@ cat runtime.js polyfills.js main.js > ./../../elements/user-management-mfe.js
 Step1: npm run deploy:gh 
 
 Step2: update in index.html
+
+
+<img width="472" height="990" alt="image" src="https://github.com/user-attachments/assets/27f9844f-592a-4ddc-8cad-c0de8120203e" />
